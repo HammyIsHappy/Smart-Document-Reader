@@ -1,0 +1,21 @@
+Welcome to the Smart Document Reader Test Document
+
+This is a sample document designed to test the accessibility features of our Smart Document Reader application. The document contains multiple sentences that will be read aloud using text-to-speech technology.
+
+Accessibility is a fundamental principle of inclusive design. When we create software that removes barriers for people with disabilities, we make technology more usable for everyone. This project specifically addresses the needs of individuals with vision and hearing disabilities.
+
+The Smart Document Reader provides several key features. First, it converts text to speech using natural-sounding voices. Second, it offers high contrast visual modes for users with low vision. Third, it includes keyboard navigation for users who cannot use a mouse. Fourth, it provides progress tracking so users know how much of the document they have completed.
+
+Text-to-speech technology has evolved significantly over the years. Modern web browsers include built-in speech synthesis capabilities that can produce clear, understandable audio from written text. Our application leverages these capabilities to provide immediate accessibility benefits without requiring additional software installation.
+
+Visual accessibility features are equally important. High contrast modes help users with various types of vision impairments distinguish between text and background elements. Large text options accommodate users who need bigger fonts for comfortable reading. These features can be toggled on and off based on individual user needs.
+
+Keyboard navigation ensures that users who rely on assistive technologies can fully interact with the application. Every button, control, and feature can be accessed using only keyboard inputs. This is essential for users of screen readers and other assistive devices.
+
+The document processing system handles both plain text and PDF files. When a user uploads a document, the system automatically extracts the text content and prepares it for audio playback. The text is divided into individual sentences, allowing for precise navigation and highlighting during reading.
+
+Progress tracking provides both visual and auditory feedback about reading completion. Users can see a progress bar that fills as the document is read, and they receive announcements about their progress through screen reader technology.
+
+This comprehensive approach to accessibility demonstrates how thoughtful software design can remove barriers and create inclusive experiences. By addressing multiple types of disabilities simultaneously, we create solutions that benefit the broadest possible range of users.
+
+Thank you for testing the Smart Document Reader. This application represents our commitment to making digital content accessible to everyone, regardless of their abilities or disabilities.
